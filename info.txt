@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"Simple Admin"
+	"version"	"1.03"  
+	"up_date"	"06/21/2009"
+
+	"author_name"	"AMT"
+	"author_email"	"theis.andrew@gmail.com"
+	
+	"info"	"A simple admin system with prop-protection."
+	"hide"	"0"
+}
