@@ -3,6 +3,7 @@ An easy and fun admin GUI for Garry's Mod.
 
 ## Installation
 Extract the zip to the following directory on your hard-drive:
+
 `<Steam-directory>/steamapps/<Steam-username>/garrysmod/garrysmod/addons/`
 
 ## Adding Admins
@@ -31,6 +32,7 @@ Admins can already use reserved slots, but if you want other players to be able 
 
 ## Configuring Simple Admin
 To configure Simple Admin browse to the below directory and edit sa_config.lua to your liking.
+
 `<Garry’s Mod install dir>/addons/simple-admin/lua/`
 
 ## Binding the Admin Menu
